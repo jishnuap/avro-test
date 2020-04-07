@@ -4,6 +4,7 @@
   "description": "Sample project to test avro serialization ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jishnuap/avro-test/issues"
   },
-  "homepage": "https://github.com/jishnuap/avro-test#readme"
+  "homepage": "https://github.com/jishnuap/avro-test#readme",
+  "dependencies": {
+    "avsc": "^5.4.20"
+  }
 }
