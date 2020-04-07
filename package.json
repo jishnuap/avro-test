@@ -1,0 +1,23 @@
+{
+  "name": "avro-test",
+  "version": "1.0.0",
+  "description": "Sample project to test avro serialization ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishnuap/avro-test.git"
+  },
+  "keywords": [
+    "avro",
+    "node"
+  ],
+  "author": "Jishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jishnuap/avro-test/issues"
+  },
+  "homepage": "https://github.com/jishnuap/avro-test#readme"
+}
