@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jishnuap/avro-test#readme",
   "dependencies": {
-    "avsc": "^5.4.20"
+    "avsc": "^5.7.1"
   }
 }
